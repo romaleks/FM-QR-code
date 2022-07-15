@@ -23,6 +23,7 @@ body {
    padding: 1rem;
    background: var(--white);
    border-radius: 20px;
+   box-shadow: 0 0 25px rgba(0, 0, 0, 0.1);
 }
 .qrcode__img {
    background: url('../img/image-qr-code.png') center / cover;
