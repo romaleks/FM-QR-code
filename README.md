@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Click](https://github.com/romaleks/FM-QR-code)
-- Live Site URL: [Click](https://romaleks.github.io/FM-QR-code/)
+- Solution URL: [View Code](https://github.com/romaleks/FM-QR-code)
+- Live Site URL: [Live Preview](https://romaleks.github.io/FM-QR-code/)
 
 ## My process
 
@@ -33,4 +33,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/romaleks)
+- Frontend Mentor - [My profile](https://www.frontendmentor.io/profile/romaleks)
